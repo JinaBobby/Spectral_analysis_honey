@@ -15,7 +15,7 @@ Features: Wavenumbers (230–1021 nm)
 Values: Raman intensities
 Target: Pure honey / Adulterated honey
 
-<h1>Methodology</h1>:
+<h1>Methodology:</h1>
 
 Model: Support Vector Machine (SVM)
 Kernel: RBF (Radial Basis Function)
