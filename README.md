@@ -1,10 +1,10 @@
-Honey Adulteration Detection Using Spectroscopic Analysis
+<h1>Honey Adulteration Detection Using Spectroscopic Analysis</h1>
 
-Overview : 
+<h1>Overview : </h1>
 This project detects pure vs adulterated honey using spectroscopic data and machine learning.
 Spectroscopy captures how a sample interacts with light across many wavelengths, revealing its chemical composition, which helps identify food fraud.
 
-Adulterants Considered:
+<h1>Adulterants Considered:</h1>
 High-Fructose Corn Syrup (HFCS)
 Rice syrup
 Maltose syrup
@@ -15,7 +15,7 @@ Features: Wavenumbers (230–1021 nm)
 Values: Raman intensities
 Target: Pure honey / Adulterated honey
 
-Methodology
+<h1>Methodology</h1>:
 
 Model: Support Vector Machine (SVM)
 Kernel: RBF (Radial Basis Function)
@@ -27,7 +27,7 @@ Kernel: RBF (Radial Basis Function)
 
 RBF-SVM captures nonlinear chemical patterns by mapping data into a high-dimensional space.
 
-Results :
+<h1>Results :</h1>
 High classification accuracy on test data - 99.61%
 Clear separation between pure and adulterated honey samples
 Demonstrates the effectiveness of spectroscopy + ML for food authentication
